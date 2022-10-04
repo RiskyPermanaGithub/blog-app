@@ -5,27 +5,56 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-                        <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-                        <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-                        <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-                        <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-                        <h2 class="section-heading">The Final Frontier</h2>
-                        <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-                        <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-                        <blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-                        <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-                        <h2 class="section-heading">Reaching for the Stars</h2>
-                        <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-                        <a href="#!"><img class="img-fluid" src="blog2/assets/img/post-sample-image.jpg" alt="..." /></a>
-                        <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-                        <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-                        <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-                        <p>
+                        <p>Para peneliti mengatakan bahwa dugong, yang mengilhami legenda tentang putri duyung, telah punah di China.
+
+Berdasarkan survei, hanya tiga orang dari komunitas pesisir di China yang melaporkan melihat hewan mamalia tersebut dalam lima tahun terakhir.
+
+Dikenal sebagai raksasa paling jinak di lautan, karakter dugong yang lambat dan santai kemungkinan membuatnya rentan terhadap penangkapan ikan yang berlebihan serta kecelakaan pelayaran.
+
+Meski dugong masih ada di tempat lain di dunia, namun mamalia ini menghadapi ancaman serupa.</p>
+                        <p>“Kemungkinan punahnya dugong di China adalah kehilangan yang sangat buruk,” kata Profesor Samuel Turvey dari Zoological Society of London (ZSL) yang berkontribusi pada penelitian itu.
+
+Para ilmuwan di ZSL dan Akademi Ilmuwan China meninjau semua riwayat di berbagai lokasi tempat dugong sebelumnya pernah ditemukan.
+
+Mereka menarik kesimpulan bahwa tidak ada lagi kemunculan dugong yang dapat diverifikasi oleh para ilmuwan sejak tahun 2000.
+
+Selain itu, para peneliti mewawancarai 788 warga yang tinggal di wilayah pesisir untuk mencari tahu kapan masyarakat setempat terakhir kali melihat dugong.
+
+Hasilnya menunjukkan bahwa warga pada umumnya tidak pernah melihat dugong selama 23 tahun. Hanya tiga orang yang melihat seekor dugong dalam lima tahun terakhir.
+
+Temuan itu membuat para peneliti menyatakan bahwa dugong telah punah secara fungsional, yang artinya “tidak lagi mampu… untuk mempertahankan dirinya sendiri,” kata peneliti pascadoktoral ZSL, Heidi Ma kepada BBC.
+
+Dugong adalah hewan laut dengan karakter yang unik. Dengan berat hampir setengah ton, dugong menjadi satu-satunya mamalia laut vegetarian.
+
+Bentuk fisik dan perilakunya mirip dengan lembu laut (manatee), hanya dibedakan oleh ekornya yang seperti paus, serta karakternya yang jinak membuat sejumlah pihak meyakini bahwa dugong telah mengilhami legenda putri duyung.</p>
+
+                <a href="#!"><img class="img-fluid" src="blog2/assets/img/dugong2.jpg" alt="..." /></a>
+                
+                        <p>Sayangnya, habitat mereka yang dekat dengan pantai di China membuat dugong rentan terhadap pemburu yang mencari hewan itu untuk mendapatkan kulit, tulang, dan dagingnya pada abad ke-20.
+
+Setelah populasinya menurun signifikan, dugong diklasifikasikan sebagai hewah kunci tingkat pertama yang dilindungi secara nasional oleh Dewan Negara China pada 1988.
+
+Namun para peneliti meyakini bahwa kerusakan habitatnya yang berkelanjutan, termasuk kurangnya lamun sebagai sumber makanan mereka, telah menyebabkan “kehancuran populasi yang cepat”.
+
+Tetapi para peneliti percaya bahwa perusakan habitatnya yang berkelanjutan - termasuk kurangnya padang lamun sebagai sumber pakan - telah menyebabkan penyusutan populasi yang cepat.
+
+Program Lingkungan PBB memperkirakan bahwa 7% habitat lamun hilang setiap tahunnya secara global akibat polusi industri dan pertanian, pembangunan di kawasan pesisir, penangkapan ikan ilegal, dan perubahan iklim.
+
+Profesor Tuvey menuturkan kepunahan Dugong di China harus menjadi peringatan bagi wilayah lain yang menjadi habitat dugong, termasuk Australia dan Afrika Timur.
+
+Turvey menyebutnya sebagai “peringatan serius bahwa kepunahan dapat terjadi sebelum ada upaya konservasi yang efektif”.
+
+Spesies ini ditemukan di 37 wilayah tropis lainnya di dunia, khususnya di perairan dangkal Samudra Pasifik bagian barat dan Samudra Hindia, namun dugong masuk ke dalam kategori rentan berdasarkan daftar merah terancam punah Uni Internasional untuk Konservasi Alam (IUCN).
+
+Saat ini, sejumlah negara bertemu di New York untuk menandatangani perjanjian laut baru PBB yang akan menempatkan 30% lautan dunia sebagai kawasan lindung.
+
+Kristina Gjerde, penasihat kebijakan laut lepas untuk IUCN, mengatakan kepada BBC, “Dugong adalah contoh menyedihkan dari apa yang terjadi pada lingkungan laut ketika ada perambahan dan peningkatan aktivitas oleh manusia”.</p>
+                        
+                        
                             Placeholder text by
-                            <a href="http://spaceipsum.com/">Space Ipsum</a>
+                            <a href="http://spaceipsum.com/">Julls Berita-man</a>
                             &middot; Images by
-                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
+                            <a href="https://pict.sindonews.net/size/640/salsabila/slider/2022/08/17697/ilmuwan-umumkan-dugong-telah-punah-di-china-wxb.jpg">Del Esshole on The Commons</a>
                         </p>
                     </div>
                 </div>
