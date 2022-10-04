@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -48,3 +49,5 @@ Route::get('/register', function () {
 Route::get('/forgot_password', function () {
     return view('admin/forgot_password');
 });
+
+Route::resource('admin/posts', PostController::class);
