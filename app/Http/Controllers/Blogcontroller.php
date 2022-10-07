@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Post;
 
-class PostController extends Controller
+class BlogController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,7 +16,7 @@ class PostController extends Controller
     {
         $posts = Post::latest()->paginate(5);
 
-        return view('posts.index',compact('posts'))
+        return view('Blog.index',compact('posts'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
@@ -57,7 +57,7 @@ class PostController extends Controller
      */
     public function show(Post $post)
     {
-        return view('posts.show',compact('post'));
+        return view('blog.posts.posts.show',compact('post'));
     }
 
     /**
@@ -78,7 +78,7 @@ class PostController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, post $post)
+    public function update(Request $request, $id)
     {
         $request->validate([
             'title' => 'required',

@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\BlogController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,14 +15,16 @@ use App\Http\Controllers\PostController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::resource('/', blogController::class);
+Route::resource('/blog', blogController::class);
 
-Route::get('/', function () {
-    return view('blog/index');
-});
+// Route::get('/', function () {
+//     return view('blog/index');
+// });
 
-Route::get('/blog', function () {
-    return view('blog/index');
-});
+// Route::get('/blog', function () {
+//     return view('blog/index');
+// });
 
 Route::get('/about', function () {
     return view('blog/about/about');

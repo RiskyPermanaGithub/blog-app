@@ -19,7 +19,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="/">Ngetes Ilmu</a>
+                <a class="navbar-brand" href="/">Kicau Mania</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -42,8 +42,8 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="site-heading">
-                            <h1>Ini Halaman Utama</h1>
-                            <span class="subheading">A Blog Theme by Jullyandre Fazri</span>
+                            <h1>Kicau Depok</h1>
+                            <span class="subheading">Perlengkapan Burung</span>
                         </div>
                     </div>
                 </div>
@@ -53,10 +53,12 @@
         <div class="container px-4 px-lg-5">
             <div class="row gx-4 gx-lg-5 justify-content-center">
                 <div class="col-md-10 col-lg-8 col-xl-7">
+                    @foreach ($posts as $post)
                     <!-- Post preview-->
+
                     <div class="post-preview">
                         <a href="post.html">
-                            <h2 class="post-title">Dugong di perairan China telah punah</h2>
+                            <h2 class="post-title">Murai Medan</h2>
                             <h3 class="post-subtitle">Baru punah di china aja ye, bukan diseluruh dunia :v</h3>
                         </a>
                         <p class="post-meta">
@@ -69,19 +71,24 @@
                     <hr class="my-4" />
                     <!-- Post preview-->
                     <div class="post-preview">
-                        <a href="post.html"><h2 class="post-title">Udah ah capek mikir berita</h2></a>
+                        <a href="blog/{{$post->id }}">
+                        <h2 class="post-title">{{ $post->title }}</h2></a>
+                        <h2 class="post-title">{{ $post->content }}</h2></a>
                         <p class="post-meta">
                             Posted by
                             <a href="#!">Julls</a>
                             on October 04, 2022
                         </p>
                     </div>
+                  
                     <!-- Divider-->
+                    
+                    @endforeach
                     <hr class="my-4" />
                     <!-- Post preview-->
                     <div class="post-preview">
                         <a href="post.html">
-                            <h2 class="post-title">Science has not yet mastered prophecy</h2>
+                            <h2 class="post-title">Kacer</h2>
                             <h3 class="post-subtitle">We predict too much for the next year and yet far too little for the next ten.</h3>
                         </a>
                         <p class="post-meta">
@@ -95,7 +102,7 @@
                     <!-- Post preview-->
                     <div class="post-preview">
                         <a href="post.html">
-                            <h2 class="post-title">Failure is not an option</h2>
+                            <h2 class="post-title">Kadang & aksesoris</h2>
                             <h3 class="post-subtitle">Many say exploration is part of our destiny, but it’s actually our duty to future generations.</h3>
                         </a>
                         <p class="post-meta">
